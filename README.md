@@ -1,8 +1,6 @@
-# 💧 Automatic Water Pump System
+# Automatic Water Pump System
 
-<p align="center">
-  <img src="images/cover.png" alt="Automatic Water Pump System Banner" width="100%">
-</p>
+
 
 <p align="center">
   <img src="https://img.shields.io/badge/Arduino-Uno-00979D?style=for-the-badge&logo=arduino&logoColor=white" alt="Arduino Uno">
